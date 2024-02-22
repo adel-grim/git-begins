@@ -1,4 +1,4 @@
-pour cloner :créer un nouveau repository
+pour cloner :créer un nouveau repository : git init
 puis via terminal : git clone +le lien du repository
 
 
@@ -9,3 +9,7 @@ git commit -m "message"
 git push 
 
 git pull origin main
+
+creer branche : git branch NomDeLaBranche
+
+git checkout
