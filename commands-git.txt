@@ -1,3 +1,9 @@
+pour cloner :créer un nouveau repository
+puis via terminal : git clone +le lien du repository
+
+
+
+pour push sur github
 git add .
 git commit -m "message"
 git push 
